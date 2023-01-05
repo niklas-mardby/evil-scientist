@@ -7,3 +7,5 @@ let o: {
 }
 
 console.log(o);
+
+// Changes to the file
