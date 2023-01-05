@@ -7,8 +7,3 @@ let o: {
 }
 
 console.log(o);
-
-alert('Hello');
-alert('There');
-
-// Changes to the file
