@@ -1,9 +1,9 @@
 # evil-scientist
-A simple program to introduce TS to vocational university students
+A simple assignment to introduce TS to vocational university students
 
-## Beskrivning av uppgiften
+## Description of assignment
 
-(kommer)
+(to-do)
 
 ## Technologies
 
@@ -11,11 +11,14 @@ A simple program to introduce TS to vocational university students
 - HTML
 - CSS
 
+## Compile
+Compile with tsc in the project folder.
+
 ## Concepts shown in code
 
 (to-do)
 
-## Resurser
+## Resources
 
 (to-do)
 
