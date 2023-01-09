@@ -1,9 +1,7 @@
-let o: {
-    x: number,
-    y: string,
-} = {
-    x: 12,
-    y: "hej",
-}
+// const pElement: HTMLParagraphElement | null = document.querySelector("p");
+const sElement = document.querySelector("section") as HTMLElement;
 
-console.log(o);
+// const pElement: HTMLParagraphElement = <HTMLParagraphElement>document.querySelector("p");
+
+sElement.innerHTML = "test";
+
