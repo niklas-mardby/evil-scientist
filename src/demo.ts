@@ -1,7 +1,8 @@
 
+// Some stuff we have talked about
 // Type alias, Union, Narrowing, Literal
 
-// option + 7 ger |
+// option + 7 makes |
 
 let x: 50 | 100 = 50;
 
