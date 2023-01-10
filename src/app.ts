@@ -17,6 +17,8 @@ const arrScientists: scientists[] = [
 const numberArr: number[] = [1, "x", 3, 4];
 */
 
+// ====================================================
+
 
 type scientists = {
     name: string,
@@ -34,18 +36,3 @@ function addScientist(name: string, age: number, henchmen: number, description: 
     }
     return test;
 }
-
-
-type Monster = {
-    name: string,
-    arms: number,
-}
-
-function createMonster(name: string, arms: number): Monster {
-    const m: Monster = {
-        name: name,
-        arms: arms
-    }
-    return m;
-}
-

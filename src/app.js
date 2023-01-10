@@ -32,3 +32,5 @@ function createMonster(name, arms) {
     };
     return m;
 }
+// Hello
+// Test
