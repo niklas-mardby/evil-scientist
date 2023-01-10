@@ -1,7 +1,10 @@
-// const pElement: HTMLParagraphElement | null = document.querySelector("p");
-// const pElement: HTMLParagraphElement = <HTMLParagraphElement>document.querySelector("p");
-const sElement = document.querySelector("section") as HTMLElement;
-sElement.append("test");
 
-const iElement = document.querySelector("#evilScientistName") as HTMLInputElement;
-iElement.value = "value";
+const buttonAddElement = document.querySelector("button") as HTMLButtonElement;
+buttonAddElement.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    const iElement = document.querySelector("#evilScientistName") as HTMLInputElement;
+    const sElement = document.querySelector("section:last-child") as HTMLElement;
+    sElement.append(iElement.value);
+
+})
