@@ -7,4 +7,4 @@ buttonAddElement.addEventListener("click", (e) => {
     const sElement = document.querySelector("section:last-child") as HTMLElement;
     sElement.append(iElement.value);
 
-})
+});
