@@ -41,5 +41,4 @@ const evilScientistList = {
     }
 }
 
-
 evilScientistList.loadScientists(evilScientistList.evilScientists);
