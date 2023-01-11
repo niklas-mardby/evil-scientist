@@ -25,12 +25,4 @@ function addScientist(name, age, henchmen, description) {
     };
     return test;
 }
-function createMonster(name, arms) {
-    var m = {
-        name: name,
-        arms: arms
-    };
-    return m;
-}
-// Hello
-// Test
+// change

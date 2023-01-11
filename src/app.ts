@@ -10,7 +10,7 @@ const arrScientists: scientists[] = [
     name: "Ollof",
     age: 14,
     henchmen: 2,
-    description: "Number1234", 
+    description: "Number1234",
     },
 ];
 
@@ -36,3 +36,5 @@ function addScientist(name: string, age: number, henchmen: number, description: 
     }
     return test;
 }
+
+// change
