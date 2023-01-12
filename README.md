@@ -1,5 +1,5 @@
 # evil-scientist
-A simple assignment to introduce TS to vocational university students.
+A simple assignment to introduce Typescript to vocational university students.
 
 ![App screenshot](https://i.imgur.com/RCKCASO.png)
 ## Description of assignment
@@ -16,7 +16,7 @@ The form should have input fields for name, age, number of henchmen and a short 
 ### The list
 All added evil scientist should be listed here by name. If you click on a name that scientist is shown in the detail view to the right.
 
-### The detail view
+### The details
 This section shows the one evil scientist that was last clicked on in the list. All details on the evil scientist should be shown (same values as added in the form).
 
 ## Suggestions on how to solve assignment
@@ -33,9 +33,11 @@ This section shows the one evil scientist that was last clicked on in the list. 
 ## Improvements to assignment
 Once you are finished with the assignment described above you can add further functionality like:
 * Reset-button that empties the list of evil scientist names
+* Better checks on the input fields when clicking the Add button
+* Not allowing duplicates of evil scientists names when adding a new evil scientist
+* Add an Edit-button in the details section
 
 ## Technologies
-
 - Typescript
 - HTML
 - CSS
@@ -47,7 +49,9 @@ Open index.html to view project.
 
 ## Concepts shown in code
 
-(to-do)
+* Basic DOM-manipulation
+* Event listeners
+* Type alias
 
 ## Resources
 
