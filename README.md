@@ -1,6 +1,7 @@
 # evil-scientist
 A simple assignment to introduce TS to vocational university students.
 
+![App screenshot](https://i.imgur.com/RCKCASO.png)
 ## Description of assignment
 
 Create a web page with three sections: 

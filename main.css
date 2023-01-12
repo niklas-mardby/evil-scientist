@@ -30,6 +30,11 @@ article {
     background: linear-gradient(90deg, rgba(117, 200, 219, 1) 0%, rgba(164, 251, 227, 1) 16%, rgba(164, 251, 227, 1) 75%, rgba(109, 193, 212, 1) 100%);
 }
 
+main {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 h1 {
     text-align: center;
 }
