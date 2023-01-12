@@ -10,7 +10,7 @@ Create a web page with three sections:
 * a detail view of one evil scientist
 
 ### The form
-The form should have input fields for name, age, number of henchmen and a short description. Also a button.
+The form should have input fields for name, age, number of henchmen and a short description. Also a button. The user is expected to fill in the form and click the button to add a new evil scientist. The name is added to the middle sections list of names. The rest of the data is stored in an array.
 
 ### The list
 All added evil scientist should be listed here by name. If you click on a name that scientist is shown in the detail view to the right.
