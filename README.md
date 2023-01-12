@@ -18,6 +18,16 @@ All added evil scientist should be listed here by name. If you click on a name t
 ### The detail view
 This section shows the one evil scientist that was last clicked on in the list. All details on the evil scientist should be shown (same values as added in the form).
 
+## Suggestions
+* Create a type alias for an evil scientist object
+* Create an array of evil scientist objects
+* You need an eventlistener on the Add button
+* The event listeners callback should 
+    * read all data from form input fields and then empty the input fields
+    * add all data to array
+    * add a new div for the name
+    * add an event listener to div with name
+    * name div eventlistener should show all details from array to detail view
 ## Technologies
 
 - Typescript
