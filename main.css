@@ -24,7 +24,8 @@ div {
     box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
 
-h1 {
+h1,
+article {
     background: rgb(117, 200, 219);
     background: linear-gradient(90deg, rgba(117, 200, 219, 1) 0%, rgba(164, 251, 227, 1) 16%, rgba(164, 251, 227, 1) 75%, rgba(109, 193, 212, 1) 100%);
 }
@@ -38,6 +39,7 @@ article {
 section {
     min-width: 175px;
     width: 30%;
+    background-color: #a4fbe3;
 }
 
 div {
